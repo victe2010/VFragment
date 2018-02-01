@@ -8,7 +8,7 @@
 	}
 ## 第 2 步。添加依赖项
   	dependencies {
-	     compile 'com.github.victe2010:FragmentDemo:1.0.1'
+	     compile 'com.github.victe2010:VFragment:1.0.1'
 	}
 	
 ## 使用方式

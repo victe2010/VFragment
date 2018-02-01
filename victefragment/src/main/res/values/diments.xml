@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="base_image_width_dimen">25dip</dimen>
+    <dimen name="base_image_height_dimen">25dip</dimen>
+    <dimen name="base_text_height_dimen">20dip</dimen>
+</resources>
